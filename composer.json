@@ -1,0 +1,30 @@
+{
+  "name": "barbotkin/send24-for-prestashop",
+  "version": "v1.0.0",
+  "description": "Offer your customers premium delivery service with Send24 Sameday Express solution.",
+  "type": "prestashop-module",
+  "keywords": [
+    "send24",
+    "shipping",
+    "delivery"
+  ],
+  "homepage": "https://github.com/barbotkin/send24-for-prestashop",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Roman Barbotkin",
+      "email": "barbotkin@bk.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.1.0"
+  },
+  "support": {
+    "issues": "https://github.com/barbotkin/send24-for-prestashop/issues",
+    "source": "https://github.com/barbotkin/send24-for-prestashop"
+  },
+  "extra": {
+    "installer-name": "Send24"
+  }
+}
